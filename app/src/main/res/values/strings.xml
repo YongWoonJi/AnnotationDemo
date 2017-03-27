@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnnotationDemo</string>
+    <string name="MY_STRING_EXTRA">하이루</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">MyFragment</string>
+</resources>
